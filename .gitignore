@@ -6,3 +6,5 @@
 /Server/DemoServer/DemoServer/bin
 /Server/DemoServer/DemoServer/obj/Debug
 /Server/DemoServer/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+/Server/DemoServer/DemoServer/Packages
+/Server/DemoServer/packages
