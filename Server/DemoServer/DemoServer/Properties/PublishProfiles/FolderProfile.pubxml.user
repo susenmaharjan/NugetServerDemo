@@ -19,10 +19,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/20/2015 16:35:32</publishTime>
     </File>
     <File Include="bin/DemoServer.dll">
-      <publishTime>04/23/2019 15:05:32</publishTime>
+      <publishTime>04/23/2019 15:12:58</publishTime>
     </File>
     <File Include="bin/DemoServer.pdb">
-      <publishTime>04/23/2019 15:05:32</publishTime>
+      <publishTime>04/23/2019 15:12:58</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
       <publishTime>11/20/2015 16:32:22</publishTime>
@@ -292,7 +292,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/23/2019 15:02:46</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/23/2019 15:05:33</publishTime>
+      <publishTime>04/23/2019 15:12:58</publishTime>
     </File>
   </ItemGroup>
 </Project>
