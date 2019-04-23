@@ -12,3 +12,6 @@
 /Library/Demo.Common/Demo.Common/bin/Debug
 /Library/Demo.Common/Demo.Common/obj
 /Library/Demo.Common/.vs/Demo.Common/v15/Server/sqlite3
+/Demostration/CalculatorApp/.vs/CalculatorApp/v15/Server/sqlite3
+/Demostration/CalculatorApp/CalculatorApp/bin/Debug/netcoreapp2.2
+/Demostration/CalculatorApp/CalculatorApp/obj
