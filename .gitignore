@@ -9,3 +9,6 @@
 /Server/DemoServer/DemoServer/Packages
 /Server/DemoServer/packages
 /Server/DemoServer/DemoServer/obj/Release
+/Library/Demo.Common/Demo.Common/bin/Debug
+/Library/Demo.Common/Demo.Common/obj
+/Library/Demo.Common/.vs/Demo.Common/v15/Server/sqlite3
