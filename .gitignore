@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Server/DemoServer/.vs/DemoServer/v15/Server/sqlite3
+/Server/DemoServer/DemoServer/bin
+/Server/DemoServer/DemoServer/obj/Debug
+/Server/DemoServer/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
